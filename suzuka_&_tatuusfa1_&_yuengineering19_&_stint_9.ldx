@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LDXFile Version="1.5">
+	<Layers>
+		<Layer>
+			<MarkerBlock>
+				<MarkerGroup Name="Beacons" Index="3">
+					<Marker Version="100" ClassName="BCN" Name="Manual.1" Flags="77" Time="48522000.000000"/>
+					<Marker Version="100" ClassName="BCN" Name="Manual.2" Flags="77" Time="98026000.000000"/>
+					<Marker Version="100" ClassName="BCN" Name="Manual.3" Flags="77" Time="147531000.000000"/>
+					<Marker Version="100" ClassName="BCN" Name="Manual.4" Flags="77" Time="197042000.000000"/>
+					<Marker Version="100" ClassName="BCN" Name="Manual.5" Flags="77" Time="246536000.000000"/>
+					<Marker Version="100" ClassName="BCN" Name="Manual.6" Flags="77" Time="296013000.000000"/>
+					<Marker Version="100" ClassName="BCN" Name="Manual.7" Flags="77" Time="345483000.000000"/>
+					<Marker Version="100" ClassName="BCN" Name="Manual.8" Flags="77" Time="394969000.000000"/>
+					<Marker Version="100" ClassName="BCN" Name="Manual.9" Flags="77" Time="444488000.000000"/>
+					<Marker Version="100" ClassName="BCN" Name="Manual.10" Flags="77" Time="495217000.000000"/>
+				</MarkerGroup>
+			</MarkerBlock>
+		</Layer>
+		<Details>
+			<String Id="Fastest Time" Value="0:49.470"/>
+			<String Id="Fastest Lap" Value="6"/>
+			<String Id="Total Laps" Value="11"/>
+		</Details>
+	</Layers>
+</LDXFile>
+
